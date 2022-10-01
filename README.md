@@ -1,1 +1,1 @@
-# springboot_composite_key
+Example composite key in JPA using springboot
